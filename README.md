@@ -13,12 +13,12 @@ Esse teste consiste do desenvolvimento de um pequeno sistema que inclui soluçõ
 ## 🤔 Problema
 
 
-Bastião é um cara comum com problemas de uma homem comum do dia a dia. Bastião tem uma linda família, mas ele tem alguns problemas, além da calvíce (força bastião :pensive: ) ele não consegue ter o controle das suas despesas e gostos desnecessários e precisa de ajuda. Nosso objetivo é criar uma aplicação web que ajude-o a ter um melhor controle financeiro.
+Bastião é um cara comum com problemas de uma homem comum do dia a dia. Bastião tem uma linda família, mas ele tem alguns problemas, além da calvíce ( força bastião :pensive: ) ele não consegue ter o controle das suas despesas e gostos desnecessários e precisa de ajuda. Nosso objetivo é criar uma aplicação web que ajude-o a ter um melhor controle financeiro.
 
 
 ## 🚀 Escopo 
 
-Para ajudar o Bastião vamos criar uma aplicação para ajudar os seus gastos.
+Para ajudar o Bastião vamos criar uma aplicação para ajudar com o controle dos seus gastos.
 
 ### Casos de Uso
 
@@ -61,7 +61,7 @@ Obs: Você tem total liberdade para implementar algo, caso achar necessário.
 ### Observações
 
 1. Sinta-se livre para implementar novas funcionalidades.
-2. O objetivo não é uma avaliação das suas capacidades técnicas, mas sim como lidam e abordam desafios e problemas. Portanto não sinta-se mal caso não consigo implementar algo, mas envie o que até onde implementou.
+2. O objetivo não é uma avaliação das suas capacidades técnicas, mas sim como lidam e abordam desafios e problemas. Portanto não sinta-se mal caso não consigo implementar algo, mas envie até onde implementou.
 
 
 
