@@ -1,6 +1,6 @@
-<h3 align="center">
-  Desafio ténico.
-</h3>
+<h1 align="center">
+  Desafio ténico
+</h1>
 
 Olá Devs!
 
