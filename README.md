@@ -56,6 +56,8 @@ O frontend da aplicação deve ser implementados com os seguintes requisitos:
 - Pode usar qualquer framework (ReactJS é um bônus)
 - Teste automatizados é um bônus.
 
+Obs: Você tem total liberdade para implementar algo, caso achar necessário.
+
 ### Observações
 
 1. Sinta-se livre para implementar novas funcionalidades.
